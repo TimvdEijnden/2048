@@ -1,0 +1,10 @@
+{
+  "name": "timwebdesign-nl",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "pixi": "~1.5.3",
+    "greensock": "~1.11.7"
+  },
+  "devDependencies": {}
+}
